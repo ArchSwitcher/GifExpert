@@ -1,0 +1,4 @@
+export const Agregar = () => {
+  
+  return <h1> VENTAS TERMINADO </h1>
+}
